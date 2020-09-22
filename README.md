@@ -1,2 +1,2 @@
 # helo-world
-Just another repository
+My name is Bobo and I am from Korea.
